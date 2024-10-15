@@ -9133,62 +9133,62 @@ msgstr "地​狱恶​虫"
 #: Source/translation_dummy.cpp:134
 msgctxt "monster"
 msgid "Gravedigger"
-msgstr "掘​墓者"
+msgstr "Gravedigger(掘​墓者)"
 
 #: Source/translation_dummy.cpp:135
 msgctxt "monster"
 msgid "Tomb Rat"
-msgstr "墓穴​蝙蝠"
+msgstr "Tomb Rat(墓穴​蝙蝠)"
 
 #: Source/translation_dummy.cpp:136
 msgctxt "monster"
 msgid "Firebat"
-msgstr "火焰​蝙"
+msgstr "Firebat(火焰​蝙)"
 
 #: Source/translation_dummy.cpp:137
 msgctxt "monster"
 msgid "Skullwing"
-msgstr "头骨​之翼"
+msgstr "Skullwing(头骨​之翼)"
 
 #: Source/translation_dummy.cpp:138
 msgctxt "monster"
 msgid "Lich"
-msgstr "巫妖"
+msgstr "Lich(巫妖)"
 
 #: Source/translation_dummy.cpp:139
 msgctxt "monster"
 msgid "Crypt Demon"
-msgstr "地​穴恶魔"
+msgstr "Crypt Demon(地​穴恶魔)"
 
 #: Source/translation_dummy.cpp:140
 msgctxt "monster"
 msgid "Hellbat"
-msgstr "地狱蝙​蝠"
+msgstr "Hellbat(地狱蝙​蝠)"
 
 #: Source/translation_dummy.cpp:141
 msgctxt "monster"
 msgid "Bone Demon"
-msgstr "白​骨恶魔"
+msgstr "Bone Demon(白​骨恶魔)"
 
 #: Source/translation_dummy.cpp:142
 msgctxt "monster"
 msgid "Arch Lich"
-msgstr "高​阶​巫妖"
+msgstr "Arch Lich(高​阶​巫妖)"
 
 #: Source/translation_dummy.cpp:143
 msgctxt "monster"
 msgid "Biclops"
-msgstr "双​钩"
+msgstr "Biclops(双​钩)"
 
 #: Source/translation_dummy.cpp:144
 msgctxt "monster"
 msgid "Flesh Thing"
-msgstr "血​肉​造物"
+msgstr "Flesh Thing(血​肉​造物)"
 
 #: Source/translation_dummy.cpp:145
 msgctxt "monster"
 msgid "Reaper"
-msgstr "收割者"
+msgstr "Reaper(收割者)"
 
 #: Source/translation_dummy.cpp:146 Source/translation_dummy.cpp:159
 msgctxt "monster"
