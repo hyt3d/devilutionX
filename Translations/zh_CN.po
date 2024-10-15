@@ -9766,15 +9766,15 @@ msgstr "治疗​药​水"
 
 #: Source/translation_dummy.cpp:272 Source/translation_dummy.cpp:355
 msgid "Potion of Mana"
-msgstr "法力​药​水"
+msgstr "Potion of Mana"
 
 #: Source/translation_dummy.cpp:273 Source/translation_dummy.cpp:370
 msgid "Scroll of Identify"
-msgstr "鉴定​卷轴"
+msgstr "Scroll of Identify"
 
 #: Source/translation_dummy.cpp:274 Source/translation_dummy.cpp:374
 msgid "Scroll of Town Portal"
-msgstr "城镇​传送​卷轴"
+msgstr "Scroll of Town Portal"
 
 #: Source/translation_dummy.cpp:275 Source/translation_dummy.cpp:497
 msgid "Arkaine's Valor"
@@ -9782,11 +9782,11 @@ msgstr "阿凯尼​的​荣耀"
 
 #: Source/translation_dummy.cpp:276 Source/translation_dummy.cpp:354
 msgid "Potion of Full Healing"
-msgstr "完全​生命​恢复​药​水"
+msgstr "Potion of Full Healing"
 
 #: Source/translation_dummy.cpp:277 Source/translation_dummy.cpp:356
 msgid "Potion of Full Mana"
-msgstr "完全​法力​恢复​药​水"
+msgstr "Potion of Full Mana"
 
 #: Source/translation_dummy.cpp:278 Source/translation_dummy.cpp:498
 msgid "Griswold's Edge"
@@ -9802,11 +9802,11 @@ msgstr "拉扎鲁斯之​杖"
 
 #: Source/translation_dummy.cpp:281 Source/translation_dummy.cpp:371
 msgid "Scroll of Resurrect"
-msgstr "复活​卷轴"
+msgstr "Scroll of Resurrect"
 
 #: Source/translation_dummy.cpp:283 Source/translation_dummy.cpp:458
 msgid "Short Staff"
-msgstr "短​杖"
+msgstr "Short Staff"
 
 #: Source/translation_dummy.cpp:284 Source/translation_dummy.cpp:395
 #: Source/translation_dummy.cpp:397 Source/translation_dummy.cpp:399
@@ -9814,16 +9814,16 @@ msgstr "短​杖"
 #: Source/translation_dummy.cpp:409 Source/translation_dummy.cpp:411
 #: Source/translation_dummy.cpp:413 Source/translation_dummy.cpp:415
 msgid "Sword"
-msgstr "剑"
+msgstr "Sword"
 
 #: Source/translation_dummy.cpp:285 Source/translation_dummy.cpp:392
 #: Source/translation_dummy.cpp:393
 msgid "Dagger"
-msgstr "​匕首"
+msgstr "​Dagger"
 
 #: Source/translation_dummy.cpp:286
 msgid "Rune Bomb"
-msgstr "符文​炸弹"
+msgstr "Rune Bomb"
 
 #: Source/translation_dummy.cpp:287
 msgid "Theodore"
@@ -9860,329 +9860,329 @@ msgstr "灰色​大衣"
 #: Source/translation_dummy.cpp:295 Source/translation_dummy.cpp:296
 #: Source/translation_dummy.cpp:298
 msgid "Cap"
-msgstr "软帽"
+msgstr "Cap"
 
 #: Source/translation_dummy.cpp:297
 msgid "Skull Cap"
-msgstr "颅顶盔"
+msgstr "Skull cap"
 
 #: Source/translation_dummy.cpp:299 Source/translation_dummy.cpp:300
 #: Source/translation_dummy.cpp:302 Source/translation_dummy.cpp:306
 msgid "Helm"
-msgstr "头盔"
+msgstr "Helm"
 
 #: Source/translation_dummy.cpp:301
 msgid "Full Helm"
-msgstr "全​护盔"
+msgstr "Full Helm"
 
 #: Source/translation_dummy.cpp:303 Source/translation_dummy.cpp:304
 msgid "Crown"
-msgstr "王冠"
+msgstr "Crown"
 
 #: Source/translation_dummy.cpp:305
 msgid "Great Helm"
-msgstr "重盔"
+msgstr "Great Helm"
 
 #: Source/translation_dummy.cpp:307 Source/translation_dummy.cpp:308
 msgid "Cape"
-msgstr "斗篷"
+msgstr "Cape"
 
 #: Source/translation_dummy.cpp:309 Source/translation_dummy.cpp:310
 msgid "Rags"
-msgstr "短​披风"
+msgstr "Rags"
 
 #: Source/translation_dummy.cpp:311 Source/translation_dummy.cpp:312
 msgid "Cloak"
-msgstr "披风"
+msgstr "Cloak"
 
 #: Source/translation_dummy.cpp:313 Source/translation_dummy.cpp:314
 msgid "Robe"
-msgstr "长​袍"
+msgstr "Robe"
 
 #: Source/translation_dummy.cpp:315
 msgid "Quilted Armor"
-msgstr "内​衬甲"
+msgstr "Quilted Armor"
 
 #: Source/translation_dummy.cpp:317
 msgid "Leather Armor"
-msgstr "皮甲"
+msgstr "Leather Armor"
 
 #: Source/translation_dummy.cpp:319
 msgid "Hard Leather Armor"
-msgstr "硬​皮甲"
+msgstr "Hard Leather Armor"
 
 #: Source/translation_dummy.cpp:321
 msgid "Studded Leather Armor"
-msgstr "钉​皮甲"
+msgstr "Studded Leather Armor"
 
 #: Source/translation_dummy.cpp:323
 msgid "Ring Mail"
-msgstr "环​甲"
+msgstr "Ring Mail"
 
 #: Source/translation_dummy.cpp:324 Source/translation_dummy.cpp:326
 #: Source/translation_dummy.cpp:328 Source/translation_dummy.cpp:332
 msgid "Mail"
-msgstr "锁​甲"
+msgstr "Mail"
 
 #: Source/translation_dummy.cpp:325
 msgid "Chain Mail"
-msgstr "锁子​甲"
+msgstr "Chain Mail"
 
 #: Source/translation_dummy.cpp:327
 msgid "Scale Mail"
-msgstr "鱼鳞甲"
+msgstr "Scale Mail"
 
 #: Source/translation_dummy.cpp:329
 msgid "Breast Plate"
-msgstr "胸片​甲"
+msgstr "Breast Plate"
 
 #: Source/translation_dummy.cpp:330 Source/translation_dummy.cpp:334
 #: Source/translation_dummy.cpp:336 Source/translation_dummy.cpp:338
 #: Source/translation_dummy.cpp:340
 msgid "Plate"
-msgstr "板​甲"
+msgstr "Plate"
 
 #: Source/translation_dummy.cpp:331
 msgid "Splint Mail"
-msgstr "板条​甲"
+msgstr "Splint Mail"
 
 #: Source/translation_dummy.cpp:333
 msgid "Plate Mail"
-msgstr "板链甲"
+msgstr "Plate Mail"
 
 #: Source/translation_dummy.cpp:335
 msgid "Field Plate"
-msgstr "全身​板​甲"
+msgstr "Field Plate"
 
 #: Source/translation_dummy.cpp:337
 msgid "Gothic Plate"
-msgstr "哥特​甲"
+msgstr "Gothic Plate"
 
 #: Source/translation_dummy.cpp:339
 msgid "Full Plate Mail"
-msgstr "全身​板链甲"
+msgstr "Full Plate Mail"
 
 #: Source/translation_dummy.cpp:342 Source/translation_dummy.cpp:344
 #: Source/translation_dummy.cpp:346 Source/translation_dummy.cpp:348
 #: Source/translation_dummy.cpp:350 Source/translation_dummy.cpp:352
 msgid "Shield"
-msgstr "盾"
+msgstr "Shield"
 
 #: Source/translation_dummy.cpp:343
 msgid "Small Shield"
-msgstr "小​盾"
+msgstr "SMall Shield"
 
 #: Source/translation_dummy.cpp:345
 msgid "Large Shield"
-msgstr "大​盾"
+msgstr "Large Shield"
 
 #: Source/translation_dummy.cpp:347
 msgid "Kite Shield"
-msgstr "鸢盾"
+msgstr "Kite Shield"
 
 #: Source/translation_dummy.cpp:349
 msgid "Tower Shield"
-msgstr "塔盾"
+msgstr "Tower Shield"
 
 #: Source/translation_dummy.cpp:351
 msgid "Gothic Shield"
-msgstr "哥特盾"
+msgstr "Gothic Shield"
 
 #: Source/translation_dummy.cpp:357
 msgid "Potion of Rejuvenation"
-msgstr "活力​恢复​药​水"
+msgstr "Potion of Rejuvenation"
 
 #: Source/translation_dummy.cpp:358
 msgid "Potion of Full Rejuvenation"
-msgstr "完全​活力​恢复​药​水"
+msgstr "Potion of Full Rejuvenation"
 
 #: Source/translation_dummy.cpp:362
 msgid "Oil"
-msgstr "油"
+msgstr "Oil"
 
 #: Source/translation_dummy.cpp:363
 msgid "Elixir of Strength"
-msgstr "力量​药剂"
+msgstr "Elixir of Strength"
 
 #: Source/translation_dummy.cpp:364
 msgid "Elixir of Magic"
-msgstr "魔法​药剂"
+msgstr "Elixir of Magic"
 
 #: Source/translation_dummy.cpp:365
 msgid "Elixir of Dexterity"
-msgstr "敏捷​药剂"
+msgstr "Elixir of Dexterity"
 
 #: Source/translation_dummy.cpp:366
 msgid "Elixir of Vitality"
-msgstr "活力​药剂"
+msgstr "Elixir of Vitality"
 
 #: Source/translation_dummy.cpp:367
 msgid "Scroll of Healing"
-msgstr "治疗​卷轴"
+msgstr "Scroll of Healing"
 
 #: Source/translation_dummy.cpp:368
 msgid "Scroll of Search"
-msgstr "搜索​卷轴"
+msgstr "Scroll of Search"
 
 #: Source/translation_dummy.cpp:369
 msgid "Scroll of Lightning"
-msgstr "闪​电​卷轴"
+msgstr "scroll of Lightning"
 
 #: Source/translation_dummy.cpp:372
 msgid "Scroll of Fire Wall"
-msgstr "火焰​墙​卷轴"
+msgstr "Scroll of Fire Wall"
 
 #: Source/translation_dummy.cpp:373
 msgid "Scroll of Inferno"
-msgstr "地​狱火​卷轴"
+msgstr "Scroll of Inferno"
 
 #: Source/translation_dummy.cpp:375
 msgid "Scroll of Flash"
-msgstr "闪光​卷轴"
+msgstr "Scroll of Flash"
 
 #: Source/translation_dummy.cpp:376
 msgid "Scroll of Infravision"
-msgstr "夜视​卷轴"
+msgstr "Scroll of Infravision"
 
 #: Source/translation_dummy.cpp:377
 msgid "Scroll of Phasing"
-msgstr "相​位术​卷轴"
+msgstr "Scroll of Phasing"
 
 #: Source/translation_dummy.cpp:378
 msgid "Scroll of Mana Shield"
-msgstr "法力​护盾​卷轴"
+msgstr "Scroll of Mana Shield"
 
 #: Source/translation_dummy.cpp:379
 msgid "Scroll of Flame Wave"
-msgstr "火焰​波​卷轴"
+msgstr "Scroll of Flame Wave"
 
 #: Source/translation_dummy.cpp:380
 msgid "Scroll of Fireball"
-msgstr "火球​卷轴"
+msgstr "Scroll of Fireball"
 
 #: Source/translation_dummy.cpp:381
 msgid "Scroll of Stone Curse"
-msgstr "石化​诅咒​卷轴"
+msgstr "Scroll of Stone Curse"
 
 #: Source/translation_dummy.cpp:382
 msgid "Scroll of Chain Lightning"
-msgstr "连锁​闪电​卷轴"
+msgstr "Scroll of Chain Lingtning"
 
 #: Source/translation_dummy.cpp:383
 msgid "Scroll of Guardian"
-msgstr "召唤​守护者​卷轴"
+msgstr "Scroll of Guardian"
 
 #: Source/translation_dummy.cpp:384
 msgid "Scroll of Nova"
-msgstr "闪电​新​星​卷轴"
+msgstr "Scroll of Nova"
 
 #: Source/translation_dummy.cpp:385
 msgid "Scroll of Golem"
-msgstr "召唤​魔像​卷轴"
+msgstr "Scroll of Golem"
 
 #: Source/translation_dummy.cpp:386
 msgid "Scroll of Teleport"
-msgstr "传​送术​卷轴"
+msgstr "Scroll of Teleport"
 
 #: Source/translation_dummy.cpp:387
 msgid "Scroll of Apocalypse"
-msgstr "天​启卷​轴"
+msgstr "Scroll of Aplcalypse"
 
 #: Source/translation_dummy.cpp:396
 msgid "Falchion"
-msgstr "弯​刃剑"
+msgstr "Falchion"
 
 #: Source/translation_dummy.cpp:398
 msgid "Scimitar"
-msgstr "弯刀"
+msgstr "Scimitar"
 
 #: Source/translation_dummy.cpp:400
 msgid "Claymore"
-msgstr "双​手​大​剑"
+msgstr "Claymore"
 
 #: Source/translation_dummy.cpp:402 Source/translation_dummy.cpp:403
 msgid "Blade"
-msgstr "短​刃"
+msgstr "Blade"
 
 #: Source/translation_dummy.cpp:404 Source/translation_dummy.cpp:405
 msgid "Sabre"
-msgstr "军刀"
+msgstr "Sabre"
 
 #: Source/translation_dummy.cpp:406
 msgid "Long Sword"
-msgstr "长​剑"
+msgstr "Long Sword"
 
 #: Source/translation_dummy.cpp:408
 msgid "Broad Sword"
-msgstr "阔​剑"
+msgstr "Broad Sword"
 
 #: Source/translation_dummy.cpp:410
 msgid "Bastard Sword"
-msgstr "手​半​剑"
+msgstr "Bastard Sword"
 
 #: Source/translation_dummy.cpp:412
 msgid "Two-Handed Sword"
-msgstr "双​手​剑"
+msgstr "Two-Handed Sword"
 
 #: Source/translation_dummy.cpp:414
 msgid "Great Sword"
-msgstr "重​剑"
+msgstr "Great Sword"
 
 #: Source/translation_dummy.cpp:416
 msgid "Small Axe"
-msgstr "小​斧"
+msgstr "Small Axe"
 
 #: Source/translation_dummy.cpp:417 Source/translation_dummy.cpp:418
 #: Source/translation_dummy.cpp:419 Source/translation_dummy.cpp:421
 #: Source/translation_dummy.cpp:423 Source/translation_dummy.cpp:425
 #: Source/translation_dummy.cpp:427
 msgid "Axe"
-msgstr "斧"
+msgstr "Axe"
 
 #: Source/translation_dummy.cpp:420
 msgid "Large Axe"
-msgstr "大斧"
+msgstr "Large Axe"
 
 #: Source/translation_dummy.cpp:422
 msgid "Broad Axe"
-msgstr "宽刃斧"
+msgstr "Broad Axe"
 
 #: Source/translation_dummy.cpp:424
 msgid "Battle Axe"
-msgstr "战斗​斧"
+msgstr "Battle Axe"
 
 #: Source/translation_dummy.cpp:426
 msgid "Great Axe"
-msgstr "重斧"
+msgstr "Great Axe"
 
 #: Source/translation_dummy.cpp:428 Source/translation_dummy.cpp:429
 #: Source/translation_dummy.cpp:431
 msgid "Mace"
-msgstr "钉​锤"
+msgstr "Mace"
 
 #: Source/translation_dummy.cpp:430
 msgid "Morning Star"
-msgstr "流​星锤"
+msgstr "Morning Star"
 
 #: Source/translation_dummy.cpp:432
 msgid "War Hammer"
-msgstr "战​锤"
+msgstr "War Hammer"
 
 #: Source/translation_dummy.cpp:433
 msgid "Hammer"
-msgstr "锤"
+msgstr "Hammer"
 
 #: Source/translation_dummy.cpp:434
 msgid "Spiked Club"
-msgstr "狼​牙棒"
+msgstr "Spiked Club"
 
 #: Source/translation_dummy.cpp:438 Source/translation_dummy.cpp:439
 msgid "Flail"
-msgstr "连​枷"
+msgstr "Flail"
 
 #: Source/translation_dummy.cpp:440 Source/translation_dummy.cpp:441
 msgid "Maul"
-msgstr "大​锤"
+msgstr "Maul"
 
 #: Source/translation_dummy.cpp:443 Source/translation_dummy.cpp:445
 #: Source/translation_dummy.cpp:447 Source/translation_dummy.cpp:449
@@ -10193,92 +10193,92 @@ msgstr "Bow"
 
 #: Source/translation_dummy.cpp:444
 msgid "Hunter's Bow"
-msgstr "猎弓"
+msgstr "Hunter's Bow"
 
 #: Source/translation_dummy.cpp:446
 msgid "Long Bow"
-msgstr "长​弓"
+msgstr "Long Bow"
 
 #: Source/translation_dummy.cpp:448
 msgid "Composite Bow"
-msgstr "复合弓"
+msgstr "Composite Bow"
 
 #: Source/translation_dummy.cpp:450
 msgid "Short Battle Bow"
-msgstr "短​战弓"
+msgstr "Short Battle Bow"
 
 #: Source/translation_dummy.cpp:452
 msgid "Long Battle Bow"
-msgstr "长​战弓"
+msgstr "Long Battle Bow"
 
 #: Source/translation_dummy.cpp:454
 msgid "Short War Bow"
-msgstr "短​战争​弓"
+msgstr "Short War Bow"
 
 #: Source/translation_dummy.cpp:456
 msgid "Long War Bow"
-msgstr "长​战争​弓"
+msgstr "Long War Bow"
 
 #: Source/translation_dummy.cpp:460
 msgid "Long Staff"
-msgstr "长​杖"
+msgstr "Long Staff"
 
 #: Source/translation_dummy.cpp:462
 msgid "Composite Staff"
-msgstr "复合​杖"
+msgstr "Composite Staff"
 
 #: Source/translation_dummy.cpp:464
 msgid "Quarter Staff"
-msgstr "铁头​棒"
+msgstr "Quarter Staff"
 
 #: Source/translation_dummy.cpp:466
 msgid "War Staff"
-msgstr "战​杖"
+msgstr "War Staff"
 
 #: Source/translation_dummy.cpp:468 Source/translation_dummy.cpp:469
 #: Source/translation_dummy.cpp:470 Source/translation_dummy.cpp:471
 #: Source/translation_dummy.cpp:472 Source/translation_dummy.cpp:473
 msgid "Ring"
-msgstr "戒指"
+msgstr "Ring"
 
 #: Source/translation_dummy.cpp:474 Source/translation_dummy.cpp:475
 #: Source/translation_dummy.cpp:476 Source/translation_dummy.cpp:477
 msgid "Amulet"
-msgstr "护符"
+msgstr "Amulet"
 
 #: Source/translation_dummy.cpp:478
 msgid "Rune of Fire"
-msgstr "火焰​符文"
+msgstr "Rune of Fire"
 
 #: Source/translation_dummy.cpp:479 Source/translation_dummy.cpp:481
 #: Source/translation_dummy.cpp:483 Source/translation_dummy.cpp:485
 #: Source/translation_dummy.cpp:487
 msgid "Rune"
-msgstr "符文"
+msgstr "Rune"
 
 #: Source/translation_dummy.cpp:480
 msgid "Rune of Lightning"
-msgstr "闪电符文"
+msgstr "Rune of Lightning"
 
 #: Source/translation_dummy.cpp:482
 msgid "Greater Rune of Fire"
-msgstr "强效​火焰​符文"
+msgstr "Greater Rune of Fire"
 
 #: Source/translation_dummy.cpp:484
 msgid "Greater Rune of Lightning"
-msgstr "强​效​闪电符文"
+msgstr "Greater Rune of Lightning"
 
 #: Source/translation_dummy.cpp:486
 msgid "Rune of Stone"
-msgstr "符文石"
+msgstr "Rune of Stone"
 
 #: Source/translation_dummy.cpp:488
 msgid "Short Staff of Charged Bolt"
-msgstr "电​荷弹​短​杖"
+msgstr "Short Staff of Charged Bolt"
 
 #: Source/translation_dummy.cpp:489
 msgid "Arena Potion"
-msgstr "竞技场药水"
+msgstr "Arena Potion"
 
 #: Source/translation_dummy.cpp:490
 msgid "The Butcher's Cleaver"
@@ -11403,127 +11403,127 @@ msgstr "危险"
 #: Source/translation_dummy.cpp:784
 msgctxt "spell"
 msgid "Firebolt"
-msgstr "火焰弹"
+msgstr "Firebolt"
 
 #: Source/translation_dummy.cpp:785
 msgctxt "spell"
 msgid "Healing"
-msgstr "治疗​术"
+msgstr "Healing"
 
 #: Source/translation_dummy.cpp:786
 msgctxt "spell"
 msgid "Lightning"
-msgstr "闪​电术"
+msgstr "Lightning"
 
 #: Source/translation_dummy.cpp:787
 msgctxt "spell"
 msgid "Flash"
-msgstr "闪光术"
+msgstr "Flash"
 
 #: Source/translation_dummy.cpp:788
 msgctxt "spell"
 msgid "Identify"
-msgstr "鉴定"
+msgstr "Identify"
 
 #: Source/translation_dummy.cpp:789
 msgctxt "spell"
 msgid "Fire Wall"
-msgstr "火焰​墙"
+msgstr "Fire Wall"
 
 #: Source/translation_dummy.cpp:790
 msgctxt "spell"
 msgid "Town Portal"
-msgstr "城镇​传送门"
+msgstr "Twon Portal"
 
 #: Source/translation_dummy.cpp:791
 msgctxt "spell"
 msgid "Stone Curse"
-msgstr "石化​诅咒"
+msgstr "Stone Curse"
 
 #: Source/translation_dummy.cpp:792
 msgctxt "spell"
 msgid "Infravision"
-msgstr "夜​视术"
+msgstr "Infravision"
 
 #: Source/translation_dummy.cpp:793
 msgctxt "spell"
 msgid "Phasing"
-msgstr "相​位术"
+msgstr "Phasing"
 
 #: Source/translation_dummy.cpp:794
 msgctxt "spell"
 msgid "Mana Shield"
-msgstr "法力​护盾"
+msgstr "Mana Shield"
 
 #: Source/translation_dummy.cpp:795
 msgctxt "spell"
 msgid "Fireball"
-msgstr "火​球术"
+msgstr "Fireball"
 
 #: Source/translation_dummy.cpp:796
 msgctxt "spell"
 msgid "Guardian"
-msgstr "召唤​守护者"
+msgstr "Guardian"
 
 #: Source/translation_dummy.cpp:797
 msgctxt "spell"
 msgid "Chain Lightning"
-msgstr "连锁​闪​电"
+msgstr "Chain Lightning"
 
 #: Source/translation_dummy.cpp:798
 msgctxt "spell"
 msgid "Flame Wave"
-msgstr "烈​焰​波"
+msgstr "Flame Wave"
 
 #: Source/translation_dummy.cpp:799
 msgctxt "spell"
 msgid "Doom Serpents"
-msgstr "多​头​蛇"
+msgstr "Doom Serpents"
 
 #: Source/translation_dummy.cpp:800
 msgctxt "spell"
 msgid "Blood Ritual"
-msgstr "鲜血​仪式"
+msgstr "Blood Ritual"
 
 #: Source/translation_dummy.cpp:801
 msgctxt "spell"
 msgid "Nova"
-msgstr "闪电​新​星"
+msgstr "Nova"
 
 #: Source/translation_dummy.cpp:802
 msgctxt "spell"
 msgid "Invisibility"
-msgstr "隐形​术"
+msgstr "Invisibility"
 
 #: Source/translation_dummy.cpp:803
 msgctxt "spell"
 msgid "Inferno"
-msgstr "地​狱火"
+msgstr "Inferno"
 
 #: Source/translation_dummy.cpp:804
 msgctxt "spell"
 msgid "Golem"
-msgstr "召唤​魔像"
+msgstr "Golem"
 
 #: Source/translation_dummy.cpp:805
 msgctxt "spell"
 msgid "Rage"
-msgstr "狂暴"
+msgstr "Rage"
 
 #: Source/translation_dummy.cpp:806
 msgctxt "spell"
 msgid "Teleport"
-msgstr "传​送术"
+msgstr "Teleport"
 
 #: Source/translation_dummy.cpp:807
 msgctxt "spell"
 msgid "Apocalypse"
-msgstr "天​启"
+msgstr "Apocalypse"
 
 #: Source/translation_dummy.cpp:808
 msgctxt "spell"
 msgid "Etherealize"
-msgstr "灵化术"
+msgstr "Etherealize"
 
 #: Source/translation_dummy.cpp:809
 msgctxt "spell"
@@ -11543,27 +11543,27 @@ msgstr "解除​陷阱"
 #: Source/translation_dummy.cpp:812
 msgctxt "spell"
 msgid "Elemental"
-msgstr "召唤​元素"
+msgstr "Elemental"
 
 #: Source/translation_dummy.cpp:813
 msgctxt "spell"
 msgid "Charged Bolt"
-msgstr "电​荷弹"
+msgstr "Charged Bolt"
 
 #: Source/translation_dummy.cpp:814
 msgctxt "spell"
 msgid "Holy Bolt"
-msgstr "圣光弹"
+msgstr "Holy Bolt"
 
 #: Source/translation_dummy.cpp:815
 msgctxt "spell"
 msgid "Resurrect"
-msgstr "复活术"
+msgstr "Resurrect"
 
 #: Source/translation_dummy.cpp:816
 msgctxt "spell"
 msgid "Telekinesis"
-msgstr "心灵​传动"
+msgstr "Telekinesis"
 
 #: Source/translation_dummy.cpp:817
 msgctxt "spell"
@@ -11573,12 +11573,12 @@ msgstr "治疗​他​人"
 #: Source/translation_dummy.cpp:818
 msgctxt "spell"
 msgid "Blood Star"
-msgstr "血​星"
+msgstr "Blood Star"
 
 #: Source/translation_dummy.cpp:819
 msgctxt "spell"
 msgid "Bone Spirit"
-msgstr "骨灵"
+msgstr "Bone Spirit"
 
 #: Source/translation_dummy.cpp:820
 msgctxt "spell"
@@ -11598,37 +11598,37 @@ msgstr "小丑​的​愚弄"
 #: Source/translation_dummy.cpp:823
 msgctxt "spell"
 msgid "Lightning Wall"
-msgstr "闪电墙"
+msgstr "Lightning Wall"
 
 #: Source/translation_dummy.cpp:824
 msgctxt "spell"
 msgid "Immolation"
-msgstr "献祭"
+msgstr "Immolation"
 
 #: Source/translation_dummy.cpp:825
 msgctxt "spell"
 msgid "Warp"
-msgstr "逃脱术"
+msgstr "Warp"
 
 #: Source/translation_dummy.cpp:826
 msgctxt "spell"
 msgid "Reflect"
-msgstr "反射"
+msgstr "Reflect"
 
 #: Source/translation_dummy.cpp:827
 msgctxt "spell"
 msgid "Berserk"
-msgstr "狂​战士"
+msgstr "Berserk"
 
 #: Source/translation_dummy.cpp:828
 msgctxt "spell"
 msgid "Ring of Fire"
-msgstr "火焰​环"
+msgstr "Ring of Fire"
 
 #: Source/translation_dummy.cpp:829
 msgctxt "spell"
 msgid "Search"
-msgstr "搜索"
+msgstr "Search"
 
 #: Source/translation_dummy.cpp:830
 msgctxt "spell"
