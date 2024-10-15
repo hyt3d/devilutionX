@@ -2567,32 +2567,32 @@ msgstr "防水​之​油"
 #, c++-format
 msgctxt "spell"
 msgid "{0} of {1}"
-msgstr "{1}{0}"
+msgstr "{0} of {1}"
 
 #. TRANSLATORS: Constructs item names. Format: {Prefix} {Item} of {Spell}. Example: King's War Staff of Firewall
 #: Source/items.cpp:1120
 #, c++-format
 msgctxt "spell"
 msgid "{0} {1} of {2}"
-msgstr "{0}{1}{2}"
+msgstr "{0} {1} of {2}"
 
 #. TRANSLATORS: Constructs item names. Format: {Prefix} {Item} of {Suffix}. Example: King's Long Sword of the Whale
 #: Source/items.cpp:1158
 #, c++-format
 msgid "{0} {1} of {2}"
-msgstr "{0}{1}{2}"
+msgstr "{0} {1} of {2}"
 
 #. TRANSLATORS: Constructs item names. Format: {Prefix} {Item}. Example: King's Long Sword
 #: Source/items.cpp:1161
 #, c++-format
 msgid "{0} {1}"
-msgstr "{0}{1}"
+msgstr "{0} {1}"
 
 #. TRANSLATORS: Constructs item names. Format: {Item} of {Suffix}. Example: Long Sword of the Whale
 #: Source/items.cpp:1164
 #, c++-format
 msgid "{0} of {1}"
-msgstr "{1}{0}"
+msgstr "{0} of {1}"
 
 #: Source/items.cpp:1698 Source/items.cpp:1706
 msgid "increases a weapon's"
