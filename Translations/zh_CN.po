@@ -4643,7 +4643,7 @@ msgstr "卷轴"
 #: Source/translation_dummy.cpp:461 Source/translation_dummy.cpp:463
 #: Source/translation_dummy.cpp:465 Source/translation_dummy.cpp:467
 msgid "Staff"
-msgstr "法​杖"
+msgstr "staff"
 
 #: Source/panels/spell_list.cpp:193
 #, c++-format
