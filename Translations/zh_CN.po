@@ -9690,7 +9690,7 @@ msgstr "木棒"
 
 #: Source/translation_dummy.cpp:251 Source/translation_dummy.cpp:442
 msgid "Short Bow"
-msgstr "短弓"
+msgstr "Short Bow"
 
 #: Source/translation_dummy.cpp:252
 msgid "Short Staff of Mana"
