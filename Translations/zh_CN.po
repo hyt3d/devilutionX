@@ -10189,7 +10189,7 @@ msgstr "大​锤"
 #: Source/translation_dummy.cpp:451 Source/translation_dummy.cpp:453
 #: Source/translation_dummy.cpp:455 Source/translation_dummy.cpp:457
 msgid "Bow"
-msgstr "弓"
+msgstr "Bow"
 
 #: Source/translation_dummy.cpp:444
 msgid "Hunter's Bow"
