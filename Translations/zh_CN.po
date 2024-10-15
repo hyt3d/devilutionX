@@ -1165,7 +1165,7 @@ msgstr[0] "{:d}卷轴"
 #: Source/control.cpp:1082 Source/panels/spell_list.cpp:184
 #, c++-format
 msgid "Staff of {:s}"
-msgstr "{:s}​法​杖"
+msgstr "STAFF OF {:s}​"
 
 #: Source/control.cpp:1083 Source/panels/spell_list.cpp:186
 #, c++-format
