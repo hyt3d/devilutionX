@@ -8908,7 +8908,7 @@ msgstr "漩涡​魔"
 #: Source/translation_dummy.cpp:89
 msgctxt "monster"
 msgid "Devil Kin Brute"
-msgstr "魔族​凶兽"
+msgstr "Devil Kin Brute(魔族​凶兽)"
 
 #: Source/translation_dummy.cpp:90
 msgctxt "monster"
@@ -9138,7 +9138,7 @@ msgstr "Gravedigger(掘​墓者)"
 #: Source/translation_dummy.cpp:135
 msgctxt "monster"
 msgid "Tomb Rat"
-msgstr "Tomb Rat(墓穴​蝙蝠)"
+msgstr "Tomb Rat(墓穴​老鼠)"
 
 #: Source/translation_dummy.cpp:136
 msgctxt "monster"
