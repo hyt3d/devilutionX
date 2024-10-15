@@ -8693,7 +8693,7 @@ msgstr "幻像​编织者"
 #: Source/translation_dummy.cpp:42
 msgctxt "monster"
 msgid "Satyr Lord"
-msgstr "萨特领主"
+msgstr "satyr lord(萨特领主)"
 
 #: Source/translation_dummy.cpp:43 Source/translation_dummy.cpp:51
 msgctxt "monster"
