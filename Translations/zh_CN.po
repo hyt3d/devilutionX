@@ -2824,7 +2824,7 @@ msgstr " {:d} 敏捷"
 #: Source/items.cpp:2287
 #, c++-format
 msgid "Book of {:s}"
-msgstr "{:s}法术​书​"
+msgstr "BooK of {:s}​"
 
 #. TRANSLATORS: {:s} will be a Character Name
 #: Source/items.cpp:2289
