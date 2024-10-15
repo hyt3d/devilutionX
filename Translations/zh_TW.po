@@ -2692,7 +2692,7 @@ msgstr "季度​員工"
 
 #: Source/itemdat.cpp:208
 msgid "War Staff"
-msgstr "戰​杖"
+msgstr "WAR STAFF"
 
 #: Source/itemdat.cpp:209 Source/itemdat.cpp:210 Source/itemdat.cpp:211
 msgid "Ring"
@@ -3904,13 +3904,13 @@ msgstr "{0} / {1}"
 #, fuzzy
 msgctxt "spell"
 msgid "{0} {1} of {2}"
-msgstr "{:s} {:s} / {:s}"
+msgstr "{:s} {:s} OF {:s}"
 
 #. TRANSLATORS: Constructs item names. Format: {Prefix} {Item} of {Suffix}. Example: King's Long Sword of the Whale
 #: Source/items.cpp:1160
 #, fuzzy
 msgid "{0} {1} of {2}"
-msgstr "{:s} {:s} / {:s}"
+msgstr "{:s} {:s} OF {:s}"
 
 #. TRANSLATORS: Constructs item names. Format: {Prefix} {Item}. Example: King's Long Sword
 #: Source/items.cpp:1163
